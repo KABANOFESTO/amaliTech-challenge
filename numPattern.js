@@ -15,5 +15,5 @@ function solution(numbers) {
     return newArray;
 }
 
-const numbers = [0, 4, 3, 2, 1];
+const numbers = [0, 4, 3, 2, 1,8,9];
 console.log(solution(numbers)); 
