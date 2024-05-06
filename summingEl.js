@@ -29,5 +29,5 @@ function findLeftmostNonZero(numbers) {
     return -1;
 }
 
-const numbers = [3, 3, 5, 2, 3];
+const numbers = [3, 2, 5, 2, 3];
 console.log(solution(numbers)); 
